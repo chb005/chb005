@@ -18,6 +18,9 @@
 
 - ⚡ Fun fact **Cricket,GYM,Runnig,Singing**
 
+<h3 align="left">Working Projects Domain:</h3>
+<h3 align="center"> Finance | Telecom Customer churning  | Medical Science  </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chirag-bhatt-79930133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-bhatt-79930133/" height="30" width="40" /></a>
@@ -25,5 +28,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="center"> Python | SQL | PowerBI  | Snowflake | NumPy | Pandas |Seaborn-Matplotlib</h3>
-
-
