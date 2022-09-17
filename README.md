@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<h3 align="center"> Python | SQL | PowerBI  | Snowflake | NumPy | Pandas |Seaborn-Matplotlib</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chb005&show_icons=true&locale=en&layout=compact" alt="chb005" /></p>
 
