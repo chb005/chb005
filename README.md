@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep Learning,NLP,Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chb005/Power-BI-Projects](https://github.com/chb005/Power-BI-Projects)
+- 👨‍💻 All of my Power BI projects are available at [https://github.com/chb005/Power-BI-Projects](https://github.com/chb005/Power-BI-Projects)
 
 - 💬 Ask me about **Data analysis and Visualization**
 
