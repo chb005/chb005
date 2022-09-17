@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Cricket,GYM,Runnig,Singing**
 
-<h3 align="left">Working Projects Domain:</h3>
+<h3 align="left">Project's Working Domain:</h3>
 <h3 align="center"> Finance | Telecom Customer churning  | Medical Science  </h3>
 
 <h3 align="left">Connect with me:</h3>
